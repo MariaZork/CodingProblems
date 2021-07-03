@@ -1,0 +1,31 @@
+site_name: LeetCode Problems Solutions
+site_author: Maria Zorkaltseva
+site_url: https://mariazork.github.io/CodingProblems
+
+# Repository
+repo_name: mariazork/CodingProblems
+repo_url: https://github.com/MariaZork/CodingProblems
+
+# Copyright
+copyright: Built by <a href="http://github.com/mariazork">Maria Zorkaltseva</a> &copy; 2021
+
+theme:
+  name: 'material'
+  language: en
+
+# Extensions
+markdown_extensions:
+  - pymdownx.highlight:
+      linenums: true
+      linenums_style: pymdownx.table
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - admonition
+  - toc:
+      permalink: true
+      
+nav:
+    - Introduction: index.md
+    - Binary Trees:
+        - 94. Binary Tree Inorder Traversal: BinaryTrees/94.BinaryTreeInorderTraversal.md
+
