@@ -44,6 +44,11 @@ plugins:
 
 nav:
     - Introduction: index.md
+    - Top Graph DFS problems: top-graph-dfs-problems.md
     - Tags: tags.md
     - Binary Trees:
         - 94. Binary Tree Inorder Traversal: BinaryTrees/94.BinaryTreeInorderTraversal.md
+    - Graphs:
+        - 200. Number of Islands: graphs/200.Number-of-Islands.md
+        - 1254. Number of Closed Islands: graphs/1254.Number-of-Closed-Islands.md
+
