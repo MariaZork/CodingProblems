@@ -21,6 +21,12 @@ title: Tags
 
 
 
+* [144. Binary Tree Preorder Traversal](BinaryTrees/144.BinaryTreePreorderTraversal.md)
+
+
+* [145. Binary Tree Postorder Traversal](BinaryTrees/145.BinaryTreePostorderTraversal.md)
+
+
 * [94. Binary Tree Inorder Traversal](BinaryTrees/94.BinaryTreeInorderTraversal.md)
 
 
@@ -28,6 +34,12 @@ title: Tags
 
 ## <span class="tag">easy</span>
 
+
+
+* [144. Binary Tree Preorder Traversal](BinaryTrees/144.BinaryTreePreorderTraversal.md)
+
+
+* [145. Binary Tree Postorder Traversal](BinaryTrees/145.BinaryTreePostorderTraversal.md)
 
 
 * [94. Binary Tree Inorder Traversal](BinaryTrees/94.BinaryTreeInorderTraversal.md)
